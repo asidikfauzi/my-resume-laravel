@@ -12,12 +12,12 @@
     <!-- Disable tap highlight on IE -->
     <meta name="msapplication-tap-highlight" content="no">
 
-    <link rel="apple-touch-icon" sizes="180x180" href="{{asset('assets/favicon.png')}}">
-    <link href="{{asset('assets/favicon.png')}}" rel="icon">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{asset('assets/images/favicon.png')}}">
+    <link href="{{asset('assets/images/favicon.png')}}" rel="icon">
 
     <title>Ach Sidik Fauzi - Backend Developer</title>
 
-    <link href="{{asset('main.d8e0d294.css')}}" rel="stylesheet"></head>
+    <link href="{{asset('css/main.d8e0d294.css')}}" rel="stylesheet"></head>
 
 <body class="">
 
@@ -177,7 +177,7 @@
         </div>
     </div>
 </main>
-<script type="text/javascript" src="{{asset('main.bc58148c.js')}}"></script>
+<script type="text/javascript" src="{{asset('js/main.bc58148c.js')}}"></script>
 </body>
 
 </html>
