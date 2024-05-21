@@ -55,6 +55,9 @@
                                         <a class="fa-icon fa-icon-x border-1" href="https://www.linkedin.com/in/asidikfauzi/" target="_blank" title="linkedIn">
                                             <i class="fa fa-linkedin"></i>
                                         </a>
+                                        <a class="fa-icon fa-icon-x border-1" href="https://asidikfauzi.vercel.app/" target="_blank" title="Website">
+                                            <i class="fa fa-globe"></i>
+                                        </a>
                                     </p>
                                 </div>
                                 <span class="image-container"><img src="{{asset('assets/images/me.JPG')}}" class="img-responsive" alt=""></span>
