@@ -5,9 +5,9 @@
     "api/index.php": { "runtime": "vercel-php@0.7.1" }
   },
   "routes": [
-    { "src": "/css/(.*)", "dest": "/public/css/" },
-    { "src": "/js/(.*)", "dest": "/public/js/" },
-    { "src": "/assets/images/(.*)", "dest": "/public/assets/images/" },
+    { "src": "/css/(.*)", "dest": "public/css/" },
+    { "src": "/js/(.*)", "dest": "public/js/" },
+    { "src": "/assets/images/(.*)", "dest": "public/assets/images/" },
     { "src": "/(.*)", "dest": "/api/index.php"}
   ],
   "env": {
