@@ -12,6 +12,8 @@
     <!-- Disable tap highlight on IE -->
     <meta name="msapplication-tap-highlight" content="no">
 
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-request">
+
     <link rel="apple-touch-icon" sizes="180x180" href="{{asset('assets/images/favicon.png')}}">
     <link href="{{asset('assets/images/favicon.png')}}" rel="icon">
 
