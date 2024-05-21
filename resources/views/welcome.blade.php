@@ -14,27 +14,9 @@
 
     <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-request">
 
-    <link rel="apple-touch-icon" sizes="180x180" href="{{asset('assets/images/favicon.png')}}">
+    <link rel="apple-touch-icon" sizes="150x150" href="{{asset('assets/images/favicon.png')}}">
     <link href="{{asset('assets/images/favicon.png')}}" rel="icon" sizes="16x16">
     <meta name="next-size-adjust">
-
-
-    <!-- Open Graph metadata -->
-{{--    <meta property="og:title" content="Ach Sidik Fauzi - Software Engineer">--}}
-{{--    <meta property="og:description" content="Hi, I'm Ach Sidik Fauzi, a Software Engineer, Backend Developer. Check out my work and projects here!">--}}
-{{--    <meta property="og:image" content="https://asidikfauzi.vercel.app/assets/images/me.JPG">--}}
-{{--    <meta property="og:url" content="https://asidikfauzi.vercel.app">--}}
-{{--    <meta property="og:type" content="website">--}}
-{{--    <meta property="og:image:width" content="300"> <!-- Lebar gambar dalam piksel -->--}}
-{{--    <meta property="og:image:height" content="150"> <!-- Tinggi gambar dalam piksel -->--}}
-{{--    <meta property="og:image:aspect_ratio" content="1.91:1">--}}
-
-    <!-- Twitter Card metadata -->
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Ach Sidik Fauzi - Software Engineer">
-    <meta name="twitter:description" content="Hi, I'm Ach Sidik Fauzi, a Software Engineer, Backend Developer. Check out my work and projects here!">
-    <meta name="twitter:image" content="https://asidikfauzi.vercel.app/assets/images/me.JPG">
-    <meta name="twitter:url" content="https://asidikfauzi.vercel.app">
 
     <link href="{{asset('css/style.css')}}" rel="stylesheet">
 </head>
