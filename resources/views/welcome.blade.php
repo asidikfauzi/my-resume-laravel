@@ -25,6 +25,9 @@
     <meta property="og:image" content="https://asidikfauzi.vercel.app/assets/images/me.JPG">
     <meta property="og:url" content="https://asidikfauzi.vercel.app">
     <meta property="og:type" content="website">
+    <meta property="og:image:width" content="600"> <!-- Lebar gambar dalam piksel -->
+    <meta property="og:image:height" content="315"> <!-- Tinggi gambar dalam piksel -->
+    <meta property="og:image:aspect_ratio" content="1.91:1">
 
     <!-- Twitter Card metadata -->
     <meta name="twitter:card" content="summary_large_image">
