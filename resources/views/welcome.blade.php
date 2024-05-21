@@ -5,9 +5,9 @@
     <meta charset="UTF-8">
     <meta content="IE=edge" http-equiv="X-UA-Compatible">
     <meta content="width=device-width,initial-scale=1" name="viewport">
-    <meta content="description" name="description">
-    <meta name="google" content="notranslate" />
-    <meta content="asidikfauzi" name="author">
+    <title>Ach Sidik Fauzi | Software Engineer focused on Backend Developer building products with extra attention to detail</title>
+    <meta name="description" content="I'm a software engineer focused on backend development with a strong interest in application architecture. My main skills include using Golang, Laravel, Node.js, PostgreSQL, MySQL, Redis, RabbitMQ, and Docker. I thrive on tackling new challenges and am always open to exploring new technologies.">
+    <meta name="google" content="notranslate"/>
 
     <!-- Disable tap highlight on IE -->
     <meta name="msapplication-tap-highlight" content="no">
@@ -15,19 +15,19 @@
     <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-request">
 
     <link rel="apple-touch-icon" sizes="180x180" href="{{asset('assets/images/favicon.png')}}">
-    <link href="{{asset('assets/images/favicon.png')}}" rel="icon">
+    <link href="{{asset('assets/images/favicon.png')}}" rel="icon" sizes="16x16">
+    <meta name="next-size-adjust">
 
-    <title>Ach Sidik Fauzi - Backend Developer</title>
 
     <!-- Open Graph metadata -->
     <meta property="og:title" content="Ach Sidik Fauzi - Software Engineer">
     <meta property="og:description" content="Hi, I'm Ach Sidik Fauzi, a Software Engineer, Backend Developer. Check out my work and projects here!">
-    <meta property="og:image" content="https://asidikfauzi.vercel.app/assets/images/me.JPG">
+{{--    <meta property="og:image" content="https://asidikfauzi.vercel.app/assets/images/me.JPG">--}}
     <meta property="og:url" content="https://asidikfauzi.vercel.app">
     <meta property="og:type" content="website">
-    <meta property="og:image:width" content="600"> <!-- Lebar gambar dalam piksel -->
-    <meta property="og:image:height" content="315"> <!-- Tinggi gambar dalam piksel -->
-    <meta property="og:image:aspect_ratio" content="1.91:1">
+{{--    <meta property="og:image:width" content="300"> <!-- Lebar gambar dalam piksel -->--}}
+{{--    <meta property="og:image:height" content="150"> <!-- Tinggi gambar dalam piksel -->--}}
+{{--    <meta property="og:image:aspect_ratio" content="1.91:1">--}}
 
     <!-- Twitter Card metadata -->
     <meta name="twitter:card" content="summary_large_image">
