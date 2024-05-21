@@ -17,7 +17,7 @@
 
     <title>Ach Sidik Fauzi - Backend Developer</title>
 
-    <link href="{{asset('css/main.d8e0d294.css')}}" rel="stylesheet"></head>
+    <link href="{{asset('css/style.css')}}" rel="stylesheet"></head>
 
 <body class="">
 
@@ -177,7 +177,7 @@
         </div>
     </div>
 </main>
-<script type="text/javascript" src="{{asset('js/main.bc58148c.js')}}"></script>
+<script type="text/javascript" src="{{asset('js/main.js')}}"></script>
 </body>
 
 </html>
