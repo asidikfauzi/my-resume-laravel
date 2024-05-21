@@ -177,5 +177,7 @@
         </div>
     </div>
 </main>
+<script type="text/javascript" src="{{asset('main.bc58148c.js')}}"></script>
 </body>
+
 </html>
