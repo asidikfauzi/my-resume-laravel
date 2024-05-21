@@ -7,7 +7,7 @@
     <meta content="width=device-width,initial-scale=1" name="viewport">
     <meta content="description" name="description">
     <meta name="google" content="notranslate" />
-    <meta content="Mashup templates have been developped by Orson.io team" name="author">
+    <meta content="asidikfauzi" name="author">
 
     <!-- Disable tap highlight on IE -->
     <meta name="msapplication-tap-highlight" content="no">
@@ -19,7 +19,22 @@
 
     <title>Ach Sidik Fauzi - Backend Developer</title>
 
-    <link href="{{asset('css/style.css')}}" rel="stylesheet"></head>
+    <!-- Open Graph metadata -->
+    <meta property="og:title" content="Ach Sidik Fauzi - Software Engineer">
+    <meta property="og:description" content="Hi, I'm Ach Sidik Fauzi, a Software Engineer, Backend Developer. Check out my work and projects here!">
+    <meta property="og:image" content="https://asidikfauzi.vercel.app/assets/images/me.JPG">
+    <meta property="og:url" content="https://asidikfauzi.vercel.app">
+    <meta property="og:type" content="website">
+
+    <!-- Twitter Card metadata -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Ach Sidik Fauzi - Software Engineer">
+    <meta name="twitter:description" content="Hi, I'm Ach Sidik Fauzi, a Software Engineer, Backend Developer. Check out my work and projects here!">
+    <meta name="twitter:image" content="https://asidikfauzi.vercel.app/assets/images/me.JPG">
+    <meta name="twitter:url" content="https://asidikfauzi.vercel.app">
+
+    <link href="{{asset('css/style.css')}}" rel="stylesheet">
+</head>
 
 <body class="">
 
