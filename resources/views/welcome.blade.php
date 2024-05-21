@@ -20,11 +20,11 @@
 
 
     <!-- Open Graph metadata -->
-    <meta property="og:title" content="Ach Sidik Fauzi - Software Engineer">
-    <meta property="og:description" content="Hi, I'm Ach Sidik Fauzi, a Software Engineer, Backend Developer. Check out my work and projects here!">
+{{--    <meta property="og:title" content="Ach Sidik Fauzi - Software Engineer">--}}
+{{--    <meta property="og:description" content="Hi, I'm Ach Sidik Fauzi, a Software Engineer, Backend Developer. Check out my work and projects here!">--}}
 {{--    <meta property="og:image" content="https://asidikfauzi.vercel.app/assets/images/me.JPG">--}}
-    <meta property="og:url" content="https://asidikfauzi.vercel.app">
-    <meta property="og:type" content="website">
+{{--    <meta property="og:url" content="https://asidikfauzi.vercel.app">--}}
+{{--    <meta property="og:type" content="website">--}}
 {{--    <meta property="og:image:width" content="300"> <!-- Lebar gambar dalam piksel -->--}}
 {{--    <meta property="og:image:height" content="150"> <!-- Tinggi gambar dalam piksel -->--}}
 {{--    <meta property="og:image:aspect_ratio" content="1.91:1">--}}
