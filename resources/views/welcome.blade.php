@@ -14,7 +14,7 @@
 
     <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-request">
 
-    <link rel="apple-touch-icon" sizes="150x150" href="{{asset('assets/images/favicon.png')}}">
+    <link rel="apple-touch-icon" sizes="16x16" href="{{asset('assets/images/favicon.png')}}">
     <link href="{{asset('assets/images/favicon.png')}}" rel="icon" sizes="16x16">
     <meta name="next-size-adjust">
 
@@ -100,7 +100,7 @@
                                         <span>Mar 2022 - May 2023</span>
                                     </div>
                                     <p class="job-title">Secret Project | Backend Developer</p>
-                                    <p>Built a notes application used by agencies that can identify people's faces from photos based on facial criteria using nodedeflux. Technologies: Node.js, PostgreSQL, Redis, RabbitMQ, Docker, Kong API Gateway for microservice architecture</p>
+                                    <p>Built a notes application used by agencies that can identify people's faces from photos based on facial criteria using nodedeflux. Technologies: Node.js, PostgreSQL, RabbitMQ, Docker, Kong API Gateway for microservice architecture</p>
                                     <p class="job-title mt-2">OneBlock | Backend Developer</p>
                                     <p>Migrate from nest.js to golang where this application performs an audit trail of application usage using blockchain. Technologies: Golang, Node.js, PostgreSQL</p>
                                     <p class="job-title mt-2">Sicana Kejaksaan Agung RI | Backend Developer</p>
