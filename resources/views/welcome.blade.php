@@ -60,7 +60,7 @@
                                         </a>
                                     </p>
                                 </div>
-                                <span class="image-container"><img src="{{asset('assets/images/me.JPG')}}" class="img-responsive" alt=""></span>
+{{--                                <span class="image-container"><img src="{{asset('assets/images/me.JPG')}}" class="img-responsive" alt=""></span>--}}
                             </div>
                         </div>
                     </div>
@@ -72,7 +72,7 @@
                             <h3 class="font-bold mb-3">About</h3>
                             <div class="row">
                                 <div class="col-md-12 font-mono-2">
-                                    <p>I'm a software engineer focused on backend development with a strong interest in application architecture. My main skills include using Golang, Laravel, Node.js, PostgreSQL, MySQL, Redis, RabbitMQ, and Docker. I thrive on tackling new challenges and am always open to exploring new technologies.</p>
+                                    <p>I'm a software engineer focused on backend development with a strong interest in application architecture. My main skills include using Golang, Laravel, Node.js, PostgreSQL, MySQL, Redis, Message Broker, and Docker. I thrive on tackling new challenges and am always open to exploring new technologies.</p>
                                     <p>Collaboration and teamwork are my strongest points, allowing me to effectively work with others to achieve common goals. My passion for backend development and dedication to continuous learning enable me to contribute significantly to any project or team.</p>
                                 </div>
                             </div>
@@ -87,23 +87,35 @@
                             <div class="row">
                                 <div class="col-md-12 font-mono">
                                     <div class="d-flex justify-content-between">
-                                        <p class="company-name"><b>Bookingtogo</b></p>
-                                        <span>May 2023 - Present</span>
+                                        <p class="company-name"><b>PT Sentra Raya Solusi</b></p>
+                                        <span>Jul 2024 - Present</span>
                                     </div>
                                     <p class="job-title">Backend Developer</p>
+                                    <p class="job-title mt-2">SSDM POLRI</p>
+                                    <p>Integrating various existing POLRI applications into one integrated application. This project uses NestJS, Redis, MinIO, PostgreSQL, Kong Gateway and Docker technologies to unify conservation and operational process environments and data management in the POLRI environment.</p>
+                                    <p class="job-title mt-2">Audit Trail Record</p>
+                                    <p>Building an Audit Trails Record application that allows monitoring of user activity from various Tugu Insurance clients, including API usage by applications owned by Tugu clients. This application uses Ethereum blockchain technology with communication via smart contracts using Ethers.js, as well as NestJS, PostgreSQL, Kong Gateway, and Docker to ensure data integrity and facilitate transparent and reliable audits for all user activities.</p>
+                                </div>
+                                <div class="col-md-12 font-mono mt-3">
+                                    <div class="d-flex justify-content-between">
+                                        <p class="company-name"><b>Bookingtogo / PT Indo Cemerlang Teknologi</b></p>
+                                        <span>May 2023 - Jun 2024</span>
+                                    </div>
+                                    <p class="job-title mb-2">Backend Developer</p>
                                     <p>Deployment Link: <a href="https://bookingtogo.com/" target="_blank">bookingtogo.com</a></p>
                                     <p>Implementing new features, creating APIs, cron, fixing bugs, and integrating data related to online travel agents. improve the performance of API responses. Technologies: Golang, Laravel, PostgreSQL, Redis, RabbitMQ, Docker</p>
                                 </div>
                                 <div class="col-md-12 font-mono mt-3">
                                     <div class="d-flex justify-content-between">
-                                        <p class="company-name"><b>Vorta Siber</b></p>
+                                        <p class="company-name"><b>PT Vorta Siber Indonesia</b></p>
                                         <span>Mar 2022 - May 2023</span>
                                     </div>
-                                    <p class="job-title">Secret Project | Backend Developer</p>
+                                    <p class="job-title">Backend Developer</p>
+                                    <p class="job-title mt-2">Secret Project</p>
                                     <p>Built a notes application used by agencies that can identify people's faces from photos based on facial criteria using nodedeflux. Technologies: Node.js, PostgreSQL, RabbitMQ, Docker, Kong API Gateway for microservice architecture</p>
-                                    <p class="job-title mt-2">OneBlock | Backend Developer</p>
+                                    <p class="job-title mt-2">OneBlock</p>
                                     <p>Migrate from nest.js to golang where this application performs an audit trail of application usage using blockchain. Technologies: Golang, Node.js, PostgreSQL</p>
-                                    <p class="job-title mt-2">Sicana Kejaksaan Agung RI | Backend Developer</p>
+                                    <p class="job-title mt-2">Sicana Kejaksaan Agung RI</p>
                                     <p>Input Tools Deployment Link: <a href="https://sicana.kejaksaan.go.id/" target="_blank">sicana.kejaksaan.go.id</a></p>
                                     <p>Dashboard Deployment Link: <a href="https://dashboard.sicana.kejaksaan.go.id/login" target="_blank">dashboard.sicana.kejaksaan.go.id</a></p>
                                     <p>Contribute to creating applications that facilitate integrated planning and budgeting in accordance with the needs of Prosecutor's work units throughout Indonesia. Technologies: Laravel, Node.js, PostgreSQL</p>
@@ -137,9 +149,9 @@
                                 <div class="skill">Laravel</div>
                                 <div class="skill">PostgreSQL</div>
                                 <div class="skill">MySQL</div>
-                                <div class="skill">RabbitMQ</div>
                                 <div class="skill">Redis</div>
                                 <div class="skill">Docker</div>
+                                <div class="skill">Message Broker</div>
                             </div>
                         </div>
                     </div>
