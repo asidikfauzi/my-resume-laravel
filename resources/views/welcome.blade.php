@@ -38,8 +38,8 @@
                                     <p>Software Engineer, Backend Developer</p>
                                     <p class="">Sumenep, 06-07-1999</p>
                                     <p>
-                                        <a class="" href="https://www.google.com/maps/place/Vonzy+Guesthouse/@-6.1509979,106.6998226,17z/data=!3m1!4b1!4m6!3m5!1s0x2e69f7f85cc61cd7:0x5bc40b4c3da826d8!8m2!3d-6.1509979!4d106.7023975!16s%2Fg%2F11v15z2264?entry=ttu" target="_blank" title="Google Maps">
-                                            <i class="fa fa-map-marker" aria-hidden="true"></i> West Jakarta 11840, Indonesia
+                                        <a class="" href="https://www.google.com/maps/place/Airy+Kebayoran+Lama+Seha+6+Jakarta/@-6.2291761,106.7773976,17z/data=!3m1!4b1!4m9!3m8!1s0x2e69f1d3929a7663:0x59280fbdd021d120!5m2!4m1!1i2!8m2!3d-6.2291761!4d106.7799779!16s%2Fg%2F11ghlbjrzc?hl=id&entry=ttu&g_ep=EgoyMDI0MTAyNy4wIKXMDSoASAFQAw%3D%3D" target="_blank" title="Google Maps">
+                                            <i class="fa fa-map-marker" aria-hidden="true"></i> South Jakarta 12220, Indonesia
                                         </a>
                                     </p>
                                     <p class="mt-3">
