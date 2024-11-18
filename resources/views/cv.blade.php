@@ -55,7 +55,7 @@
                                         <a class="fa-icon fa-icon-x border-1" href="https://www.linkedin.com/in/asidikfauzi/" target="_blank" title="linkedIn">
                                             <i class="fa fa-linkedin"></i>
                                         </a>
-                                        <a class="fa-icon fa-icon-x border-1" href="https://asidikfauzi.vercel.app/" target="_blank" title="Website">
+                                        <a class="fa-icon fa-icon-x border-1" href="https://asidikfauzi.me/" target="_blank" title="Website">
                                             <i class="fa fa-globe"></i>
                                         </a>
                                     </p>
@@ -72,8 +72,18 @@
                             <h3 class="font-bold mb-3">About</h3>
                             <div class="row">
                                 <div class="col-md-12 font-mono-2">
-                                    <p>I'm a software engineer focused on backend development with a strong interest in application architecture. My main skills include using Golang, Laravel, Node.js, PostgreSQL, MySQL, Redis, Message Broker, and Docker. I thrive on tackling new challenges and am always open to exploring new technologies.</p>
-                                    <p>Collaboration and teamwork are my strongest points, allowing me to effectively work with others to achieve common goals. My passion for backend development and dedication to continuous learning enable me to contribute significantly to any project or team.</p>
+                                    <p>
+                                        I am a software engineer with a primary focus on backend development and a keen
+                                        interest in designing robust application architectures. I am particularly
+                                        passionate about crafting scalable and efficient backend solutions that form the
+                                        backbone of high-performing applications.
+                                    </p>
+                                    <p>
+                                        I believe that great software is the result of diverse ideas and teamwork, and
+                                        I make it a priority to work effectively with colleagues across various domains.
+                                        Whether working with frontend developers, product managers, or other stakeholders,
+                                        I strive to foster open communication and align efforts toward shared goals.
+                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -132,7 +142,7 @@
                                 <small class="date">2017-2022</small>
                                 <p class="company-name">Universitas Surabaya</p>
                                 <p class="job-title">S1 Computer Science</p>
-                                <p>Coursework: Web Development, Computer Network, Internet of Things, Cloud Computing</p>
+                                <p>Coursework: Programming Basics, Computer Architecture, Computational Mathematics and Logic, Operating Systems, Databases, Computer Networks and Security, Software Development, Artificial Intelligence and Machine Learning, Web and Mobile Application Development, Theoretical Computation</p>
                             </div>
                         </div>
                     </div>

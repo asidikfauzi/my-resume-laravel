@@ -13,6 +13,10 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+Route::get('/cv', function () {
+    return view('cv');
+});
+
 Route::get('/', function () {
-    return view('welcome');
+    return view('view');
 });
