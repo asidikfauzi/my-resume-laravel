@@ -55,7 +55,7 @@
                  data-aos-delay="100"
                  style="display: flex; flex-wrap: nowrap; align-items: center; justify-content: center;">
                 <div class="col-lg-2"
-                     style="flex: 0 0 auto; max-width: 200px; margin-right: 25px;">
+                     style="flex: 0 0 auto; max-width: 180px; margin-right: 20px;">
                     <img src="{{asset('assets/images/me.JPG')}}"
                          class="img-fluid"
                          alt=""
@@ -85,9 +85,7 @@
                     </div>
                     <div class="row">
                         <div class="col-lg-6">
-                            <ul>
-                                <li><strong>Freelance:</strong> <span>Available ✅</span></li>
-                            </ul>
+                            <span>Available for freelance ✅</span>
                         </div>
                         <div class="col-lg-6">
                             <ul></ul>
