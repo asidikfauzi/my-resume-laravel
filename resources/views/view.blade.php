@@ -2,12 +2,11 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta content="IE=edge" http-equiv="X-UA-Compatible">
-    <meta content="width=device-width,initial-scale=1" name="viewport">
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <title>Ach Sidik Fauzi | Software Engineer focused on Backend Developer building products with extra attention to detail</title>
     <meta name="description" content="I'm a software engineer focused on backend development with a strong interest in application architecture. My main skills include using Golang, Laravel, Node.js, PostgreSQL, MySQL, Redis, RabbitMQ, and Docker. I thrive on tackling new challenges and am always open to exploring new technologies.">
-    <meta name="google" content="notranslate"/>
+    <meta name="keywords" content="">
 
     <!-- Favicons -->
     <link rel="apple-touch-icon" sizes="16x16" href="{{asset('assets/images/favicon.png')}}">
@@ -31,7 +30,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Exo+2:wght@400;700&display=swap" rel="stylesheet">
 </head>
 
-<body class="index-page">
+<body class="portfolio-page">
 
     <header id="header" class="header d-flex align-items-center fixed-top">
         <div class="container-fluid container-xl position-relative d-flex align-items-center justify-content-between">
