@@ -5,15 +5,16 @@
     "api/index.php": { "runtime": "vercel-php@0.7.1" }
   },
   "routes": [
-    { "src": "/css/(.*)", "dest": "public/css/" },
+    { "src": "/css/(.*)", "dest": "public/css/$1" },
     { "src": "/js/(.*)", "dest": "public/js/" },
-    { "src": "/assets/images/(.*)", "dest": "public/assets/images/" },
+    { "src": "/assets/images/(.*)", "dest": "public/assets/images/$1" },
+    { "src": "/assets/vendor/(.*)", "dest": "public/assets/vendor/$1" },
     { "src": "/(.*)", "dest": "/api/index.php"}
   ],
   "env": {
     "APP_ENV": "production",
     "APP_DEBUG": "true",
-    "APP_URL": "https://yourproductionurl.com",
+    "APP_URL": "https://asidikfauzi.me",
 
     "APP_CONFIG_CACHE": "/tmp/config.php",
     "APP_EVENTS_CACHE": "/tmp/events.php",
