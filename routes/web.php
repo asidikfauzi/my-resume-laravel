@@ -13,10 +13,10 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/cv', function () {
+Route::get('/cv', static function () {
     return view('cv');
-});
+})->name('cv');
 
-Route::get('/', function () {
+Route::get('/', static function () {
     return view('view');
-});
+})->name('home');

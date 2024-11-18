@@ -455,7 +455,7 @@ h6 {
 }
 
 .footer p {
-  font-size: 15;
+  font-size: 15px;
   font-style: italic;
   padding: 0;
   margin: 0 0 30px 0;
@@ -570,7 +570,7 @@ h6 {
 --------------------------------------------------------------*/
 @media screen and (max-width: 768px) {
   [data-aos-delay] {
-    transition-delay: 0 !important;
+    transition-delay: 0ms !important;
   }
 }
 
@@ -652,7 +652,6 @@ section,
   padding: 0;
   line-height: 1px;
   margin: 0;
-  letter-spacing: 1.5px;
   text-transform: uppercase;
   color: color-mix(in srgb, var(--default-color), transparent 50%);
   position: relative;
@@ -669,7 +668,6 @@ section,
 
 .section-title div {
   color: var(--heading-color);
-  margin: 0;
   margin: 0;
   font-size: 28px;
   font-weight: 700;
@@ -1066,7 +1064,6 @@ section,
 }
 
 .services .service-item .icon {
-  margin: 0 auto;
   width: 64px;
   height: 64px;
   background: var(--accent-color);
@@ -1214,7 +1211,6 @@ section,
   padding: 0;
   font-size: 18px;
   font-weight: 500;
-  margin: 0 10px;
   line-height: 1;
   margin-bottom: 5px;
   transition: all 0.3s ease-in-out;
