@@ -545,7 +545,7 @@
     <footer id="footer" class="footer dark-background">
         <div class="container">
             <h3 class="sitename">@asidikfauzi</h3>
-            <p>Software Engineer, Backend Developer</p>
+            <p>Software Engineer</p>
             <div class="social-links d-flex justify-content-center">
                 <a href="mailto:asidikfauzi@gmail.com" target="_blank" class="p-2"><i class="bi bi-envelope"></i></a>
                 <a href="https://wa.me/6287852982548" target="_blank" class="p-2"><i class="bi bi-whatsapp"></i></a>
