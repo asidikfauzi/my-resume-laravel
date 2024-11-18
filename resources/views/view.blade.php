@@ -26,8 +26,8 @@
     <link href="{{asset('assets/vendor/glightbox/css/glightbox.min.css')}}" rel="stylesheet">
 
     <!-- Main CSS File -->
-    <link href="{{ mix('css/main.css') }}" rel="stylesheet">
-    <link href="{{ mix('css/main.css') }}?v={{ time() }}" rel="stylesheet">
+    <link href="{{ asset('css/main.css') }}" rel="stylesheet">
+    <link href="{{ asset('css/main.css') }}?v={{ time() }}" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Exo+2:wght@400;700&display=swap" rel="stylesheet">
 </head>
 
