@@ -6,7 +6,8 @@
   },
   "routes": [
     { "src": "/css/(.*)", "dest": "public/css/$1" },
-    { "src": "/js/(.*)", "dest": "public/js/" },
+      { "src": "/js/(.*)", "dest": "public/js/$1" },
+      { "src": "/assets/js/(.*)", "dest": "public/assets/js/$1" },
     { "src": "/assets/images/(.*)", "dest": "public/assets/images/$1" },
     { "src": "/assets/vendor/(.*)", "dest": "public/assets/vendor/$1" },
     { "src": "/(.*)", "dest": "/api/index.php"}
