@@ -1207,8 +1207,8 @@ section,
 # Portfolio Section
 --------------------------------------------------------------*/
 .portfolio .portfolio-filters {
-    padding: 0;
-    margin: 0 auto 20px auto;
+    padding: 10px;
+    margin: 10px auto 20px auto;
     list-style: none;
     text-align: center;
 }
@@ -1222,6 +1222,7 @@ section,
     line-height: 1;
     margin-bottom: 5px;
     transition: all 0.3s ease-in-out;
+    margin-right: 10px;
 }
 
 .portfolio .portfolio-filters li:hover,
