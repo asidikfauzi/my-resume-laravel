@@ -134,6 +134,20 @@
                             </p>
                         </div><!-- Edn Resume Item -->
 
+                        <h3 class="resume-title">Mentor Experience</h3>
+                        <div class="resume-item">
+                            <div style="display: flex; justify-content: space-between; align-items: center;">
+                                <h4>
+                                    Dibimbing, <br>
+                                    <span style="color: #bb4d4d;">Backend Mentor</span>
+                                </h4>
+                                <h5>Dec 2024 - Present</h5>
+                            </div>
+                            <ul>
+                                <li>Introduced software design principles for clean code and clean architecture using SOLID methodology.</li>
+                            </ul>
+                        </div><!-- Edn Resume Item -->
+
                         <h3 class="resume-title">Education</h3>
                         <div class="resume-item">
                             <div style="display: flex; justify-content: space-between; align-items: center;">
@@ -217,7 +231,9 @@
                                     Developing an integrated application to unify various existing POLRI applications, combining them into a single system to support conservation, operational processes, and data management.
                                     <p class="mt-2"><b>Responsibilities :</b></p>
                                     <ul>
-                                        <li>Contribute to the development of the Marriage, Divorce, and Reconciliation subsystem for SSDM POLRI, focusing on data integrity and efficient data flow.</li>
+                                        <li>Contributed to the development of the Marriage, Divorce, and Reconciliation subsystem for SSDM POLRI, focusing on data integrity and efficient data flow.</li>
+                                        <li>Implemented NRP generation for incoming students based on their enrollment batch and year.</li>
+                                        <li>Developed the selection system for Bagjakdiklat to manage personnel scholarship programs.</li>
                                         <li>Performed bug fixes and code refactoring to improve system stability and maintainability.</li>
                                     </ul>
                                     <b>Technologies : </b><br>
@@ -471,11 +487,22 @@
 
                     <ul class="portfolio-filters isotope-filters" data-aos="fade-up" data-aos-delay="100">
                         <li data-filter="*" class="filter-active">All</li>
+                        <li data-filter=".filter-mentor">Mentor</li>
                         <li data-filter=".filter-udemy">Udemy</li>
                         <li data-filter=".filter-oracle">Oracle</li>
                     </ul><!-- End Portfolio Filters -->
 
                     <div class="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
+                        <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-mentor">
+                            <div class="portfolio-content h-100" style="max-height: 300px">
+                                <img src="{{asset('assets/images/mentor-software-design.jpg')}}" class="img-fluid" alt="">
+                                <div class="portfolio-info">
+                                    <h4>Mentor: Golang Back-End Development Bootcamp at Dibimbing.id</h4>
+                                    <p>Certificate for Completion</p>
+                                    <a href="{{asset('assets/images/mentor-software-design.jpg')}}" title="Certificate for Completion, Mentor: Golang Back-End Development Bootcamp at Dibimbing.id" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                                </div>
+                            </div>
+                        </div><!-- End Portfolio Item -->
                         <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-udemy">
                             <div class="portfolio-content h-100" style="max-height: 300px">
                                 <img src="{{asset('assets/images/docker-udemy.jpg')}}" class="img-fluid" alt="">

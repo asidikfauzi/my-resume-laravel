@@ -1,25 +1,46 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<!DOCTYPE html>
+<html lang="en">
+
 <head>
     <meta charset="UTF-8">
-    <meta content="IE=edge" http-equiv="X-UA-Compatible">
-    <meta content="width=device-width,initial-scale=1" name="viewport">
-    <title>Ach Sidik Fauzi | Software Engineer focused on Backend Developer building products with extra attention to detail</title>
-    <meta name="description" content="I'm a software engineer focused on backend development with a strong interest in application architecture. My main skills include using Golang, Laravel, Node.js, PostgreSQL, MySQL, Redis, RabbitMQ, and Docker. I thrive on tackling new challenges and am always open to exploring new technologies.">
-    <meta name="google" content="notranslate"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <!-- Disable tap highlight on IE -->
-    <meta name="msapplication-tap-highlight" content="no">
+    <!-- Title -->
+    <title>Ach Sidik Fauzi | Backend Software Engineer | Golang, Node.js, Docker, PostgreSQL</title>
 
-    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-request">
+    <!-- Meta Descriptions -->
+    <meta name="description" content="Ach Sidik Fauzi - Backend Software Engineer specializing in Golang, Node.js, Laravel, Docker, PostgreSQL, Redis, and RabbitMQ. Expert in clean architecture, scalable backend development, and API integrations.">
 
-    <link rel="apple-touch-icon" sizes="16x16" href="{{asset('assets/images/favicon.png')}}">
-    <link href="{{asset('assets/images/favicon.png')}}" rel="icon" sizes="16x16">
-    <meta name="next-size-adjust">
+    <!-- Keywords -->
+    <meta name="keywords" content="Ach Sidik Fauzi, Backend Developer, Software Engineer, Golang, Node.js, Laravel, Docker, PostgreSQL, Redis, RabbitMQ, Microservices, Clean Architecture, API Developer">
 
+    <!-- Robots -->
+    <meta name="robots" content="index, follow">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Ach Sidik Fauzi | Backend Software Engineer | Golang & Node.js">
+    <meta property="og:description" content="Software Engineer focusing on backend development with expertise in Golang, Node.js, Laravel, PostgreSQL, Redis, and Docker. Building scalable solutions and clean architectures.">
+    <meta property="og:url" content="https://asidikfauzi.me/">
+    <meta property="og:image" content="https://asidikfauzi.me/assets/images/me.JPG">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Ach Sidik Fauzi | Backend Software Engineer | Golang & Node.js">
+    <meta name="twitter:description" content="Expert backend developer crafting clean and scalable systems with Golang, Node.js, Laravel, Docker, and PostgreSQL.">
+    <meta name="twitter:image" content="https://asidikfauzi.me/assets/images/me.JPG">
+
+    <!-- Favicon -->
+    <link rel="icon" href="{{asset('assets/images/favicon.png')}}" type="image/png" sizes="16x16">
+
+    <!-- Stylesheet -->
     <link href="{{asset('css/style.css')}}" rel="stylesheet">
 </head>
+
 
 <body class="">
 
@@ -95,7 +116,7 @@
                         <div class="col-md-12">
                             <h3 class="font-bold mb-3">Work Experience</h3>
                             <div class="row">
-                                <div class="col-md-12 font-mono">
+                                <div class="col-md-12 font-mono mt-3">
                                     <div class="d-flex justify-content-between">
                                         <p class="company-name"><b>PT Sentra Raya Solusi</b></p>
                                         <span>Jul 2024 - Present</span>
@@ -135,6 +156,26 @@
                     </div>
                 </div>
                 <div class="card-block">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <h3 class="font-bold mb-3">Mentor Experience</h3>
+                            <div class="row">
+                                <div class="col-md-12 font-mono">
+                                    <div class="d-flex justify-content-between">
+                                        <p class="company-name"><b>Dibimbing / PT Dibimbing Digital Indonesia</b></p>
+                                        <span>Dec 2024 - Present</span>
+                                    </div>
+                                    <p class="job-title">Backend Mentor</p>
+                                    <p class="job-title mt-2">Golang Backend Development</p>
+                                    <ul style="padding-left: 15px; padding-top: 5px">
+                                        <li>Introduced software design principles for clean code and clean architecture using SOLID methodology.</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-block">
                     <h3 class="font-bold mb-3">Education</h3>
                     <div class="row font-mono">
                         <div class="col-md-12">
@@ -162,42 +203,61 @@
                                 <div class="skill">Redis</div>
                                 <div class="skill">Docker</div>
                                 <div class="skill">Message Broker</div>
+                                <div class="skill">Linux</div>
                             </div>
                         </div>
                     </div>
                 </div>
                 <div class="card-block d-flex flex-column">
                     <h3 class="font-bold mb-3">Projects</h3>
-                    <div class="row font-mono">
-                        <div class="col-md-12 p-5">
+                    <div class="row font-mono" data-aos="fade-up"
+                         style="display: flex; flex-wrap: nowrap; align-items: stretch;">
+                        <div class="col-lg-4 col-md-6" style="padding-right: 6px; padding-left: 0px;">
                             <div class="p-border">
                                 <div class="d-flex justify-content-between">
-                                    <p class="company-name"><b>Diaspora Muda Sumenep</b></p>
-                                    <span>Jan 2024 - Present</span>
+                                    <a href="https://diasporamudasumenep.com/" target="_blank">
+                                        <p class="company-name"><b>Diaspora Muda</b></p>
+                                    </a>
                                 </div>
-                                <p class="job-title">My Organization Products | Backend Developer</p>
-                                <p>Deployment Link: <a href="https://diasporamudasumenep.com/" target="_blank">diasporamudasumenep.com</a></p>
-                                <p>Home of Diaspora Muda Sumenep, A youth forum for young immigrants from Sumenep Regency to contribute to local development. Focuses on developing human resources through seminars, training, cadre formation, and networking</p>
-                                <div class="skill-v2">Lead Backend Developer</div>
-                                <div class="skill-v2">Lumen/Laravel</div>
-                                <div class="skill-v2">MySQL</div>
-                                <div class="skill-v2">Docker</div>
+                                <p class="mt-2">Home of Diaspora Muda Sumenep, A youth forum for young immigrants from Sumenep Regency to contribute to local development.</p>
+                                <div class="mt-3">
+                                    <div class="skill-v2">Side Project</div>
+                                    <div class="skill-v2">Lumen/Laravel</div>
+                                    <div class="skill-v2">MySQL</div>
+                                    <div class="skill-v2">Docker</div>
+                                </div>
                             </div>
                         </div>
-                        <div class="col-md-12 p-5">
+                        <div class="col-lg-4 col-md-6" style="padding-right: 6px; padding-left: 6px;">
                             <div class="p-border">
                                 <div class="d-flex justify-content-between">
-                                    <p class="company-name"><b>Sales Tap</b></p>
-                                    <span>Dec 2021 - Mar 2022</span>
+                                    <a href="https://install.appcenter.ms/users/ariefyusron98/apps/salestap/distribution_groups/internal%20test" target="_blank">
+                                        <p class="company-name"><b>Sales Tap</b></p>
+                                    </a>
                                 </div>
-                                <p class="job-title">Freelance | Backend Developer</p>
-                                <p>APK Deployment Link: <a href="https://install.appcenter.ms/users/ariefyusron98/apps/salestap/distribution_groups/internal%20test" target="_blank">apk.sales.tap</a></p>
-                                <p>CMS Deployment Link: <a href="http://103.191.92.76/store" target="_blank">cms.sales.tap</a></p>
-                                <p>Our system ensures accurate sales attendance and provides the ability to monitor sales activities in a timely manner. Sales can easily take attendance with photos and location notes every time they visit a target store. This helps ensure transparency in field operations and allows management to track sales performance effectively</p>
-                                <div class="skill-v2">Lumen/Laravel</div>
-                                <div class="skill-v2">MySQL</div>
+                                <p class="mt-2">Our system ensures accurate sales attendance and provides the ability to monitor sales activities in a timely manner.</p>
+                                <div class="mt-3">
+                                    <div class="skill-v2">Side Project</div>
+                                    <div class="skill-v2">Lumen/Laravel</div>
+                                    <div class="skill-v2">MySQL</div>
+                                </div>
                             </div>
                         </div>
+                        {{-- <div class="col-lg-4 col-md-6" style="padding-right: 0px; padding-left: 6px;">
+                            <div class="p-border">
+                                <div class="d-flex justify-content-between">
+                                    <a href="https://masyhuri-solusindo.com/" target="_blank">
+                                        <p class="company-name"><b>Masyhuri Solusindo</b></p>
+                                    </a>
+                                </div>
+                                <p class="mt-2">Our system ensures accurate sales attendance and provides the ability to monitor sales activities in a timely manner.</p>
+                                <div class="mt-3">
+                                    <div class="skill-v2">Side Project</div>
+                                    <div class="skill-v2">Lumen/Laravel</div>
+                                    <div class="skill-v2">MySQL</div>
+                                </div>
+                            </div>
+                        </div> --}}
                     </div>
                 </div>
             </div>
